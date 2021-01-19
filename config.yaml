@@ -3,8 +3,8 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        cyberrange: 3
-        operation: 3
+        cyber range: 3
+        operate: 3
         observation: 3
 
 # 通知の閾値
